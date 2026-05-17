@@ -15,7 +15,7 @@
 
 ## My journey
 I document everything I learn and build.
-Follow along on LinkedIn → linkedin.com/in/buildwithraj
+Follow along on LinkedIn → linkedin.com/in/buiildwithraj
 
 ---
 
@@ -24,6 +24,6 @@ Python · VS Code · Git
 
 ---
 
-📫 Email: buildwithraj@gmail.com
-💼 LinkedIn: linkedin.com/in/buildwithraj
-💰 Fiverr: fiverr.com/buildwithraj
+📫 Email: buiildwithraj@gmail.com
+💼 LinkedIn: linkedin.com/in/buiildwithraj
+💰 Fiverr: fiverr.com/buiildwithraj
